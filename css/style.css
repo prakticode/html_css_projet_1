@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+
+@import url("sections/header.css");
+@import url("sections/hero.css");
+
+@import url("global.css");
+@import url("responsive.css");  
+
+:root {
+    --roboto: "Roboto", sans-serif;
+    --open-sans: "Open Sans", sans-serif;
+
+    --primary-color: #000;
+    --secondary-color: #fff;
+
+    --gray-15: #262626;
+    --gray-36: #5c5c5c;
+    --gray-100: #888888;
+
+}
